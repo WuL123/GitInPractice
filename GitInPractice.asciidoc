@@ -6,3 +6,6 @@ another machine, so it can't use ordered revision numbers.
 Add to index staging area.
 
 Modification not in the staging area.
+
+Add new contents for pull
+
