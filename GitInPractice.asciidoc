@@ -1,0 +1,4 @@
+They’re used instead of incremental revision numbers (like in Subversion)
+due to the distributed nature of Git. When you commit locally, Git can’t
+know whether your commit occurred before or after another commit on
+another machine, so it can’t use ordered revision numbers.
