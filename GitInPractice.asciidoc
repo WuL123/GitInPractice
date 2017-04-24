@@ -9,3 +9,5 @@ Modification not in the staging area.
 
 Add new contents for pull
 
+Add and push for remote diff
+
