@@ -11,3 +11,4 @@ Add new contents for pull
 
 Add and push for remote diff
 
+This will be merged back to master branch
